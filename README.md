@@ -1,4 +1,4 @@
-E-Commerce Application
+# E-Commerce Application
 
 An e-commerce application developed in **Java and Python** to strengthen my understanding and practical application of Object-Oriented Programming (OOP) and SOLID design principles.
 
@@ -8,7 +8,7 @@ This project simulates the core operations of an e-commerce system, including pr
 
 The application is implemented in both Java and Python to explore how object-oriented concepts and software design principles can be applied across different programming languages.
 
-Features
+## Features
 
 - **Product Management:** Create and manage products and their prices.
 - **Inventory Management:** Add stock, update product quantities, change prices and search for products.
@@ -17,7 +17,7 @@ Features
 - **Checkout:** Review cart contents and calculate the total purchase amount.
 - **Payment Processing:** Process payments through a payment gateway abstraction.
 
-Object-Oriented Programming Concepts
+## Object-Oriented Programming Concepts
 
 The project explores:
 
@@ -28,7 +28,7 @@ The project explores:
 - Composition
 - Dependency Injection
 
-SOLID Principles
+## SOLID Principles
 
 The application focuses on understanding and applying the five SOLID principles:
 
@@ -38,7 +38,7 @@ The application focuses on understanding and applying the five SOLID principles:
 - Interface Segregation Principle (ISP)
 - Dependency Inversion Principle (DIP)
 
-Technologies
+## Technologies
 
 **Java**
 - Java
