@@ -1,6 +1,6 @@
 from decimal import Decimal
 from unittest import TestCase
-from shopping.product import Product
+from shopping import Product
 
 
 class TestProduct(TestCase):

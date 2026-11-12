@@ -1,6 +1,6 @@
 from types import MappingProxyType
 
-from product import Product
+from python.src.shopping.product import Product
 
 
 class Inventory:

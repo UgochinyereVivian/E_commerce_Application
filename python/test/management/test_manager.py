@@ -1,8 +1,8 @@
 from unittest import TestCase
 from unittest.mock import Mock
 from decimal import Decimal
-from management.manager import Manager
-from shopping.product import Product
+from management import Manager
+from shopping import Product
 
 
 class TestManager(TestCase):

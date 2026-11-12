@@ -2,8 +2,8 @@ from decimal import Decimal
 from unittest import TestCase
 
 from shopping.checkout import Checkout
-from shopping.cart import Cart
-from shopping.product import Product
+from shopping import Cart
+from shopping import Product
 
 
 class TestCheckout(TestCase):

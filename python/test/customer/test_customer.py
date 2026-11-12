@@ -3,11 +3,11 @@ from decimal import Decimal
 from unittest import TestCase
 from unittest.mock import Mock
 
-from shopping.checkout import Checkout
-from customer.customer import Customer
-from shopping.inventory import Inventory
-from shopping.cart import Cart
-from shopping.product import Product
+from python.src.shopping.checkout import Checkout
+from python.src.customer.customer import Customer
+from python.src.shopping.inventory import Inventory
+from python.src.shopping.cart import Cart
+from python.src.shopping.cart import Product
 
 
 class TestCustomer(TestCase):

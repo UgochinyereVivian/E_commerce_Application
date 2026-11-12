@@ -1,7 +1,7 @@
 from unittest import TestCase
 from decimal import Decimal
-from shopping.product import Product
-from shopping.cart import Cart
+from shopping import Product
+from shopping import Cart
 
 
 class TestCart(TestCase):
