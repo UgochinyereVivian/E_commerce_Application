@@ -4,39 +4,111 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54f8576-869e-4902-b1eb-d28023556ad8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/E_Commerce_Application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customer/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/management/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/payment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/payment/flutterwave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/payment/opay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/payment/payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/payment/payment_gateway.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/checkout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/customer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/customer/test_customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/management/test_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/payment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/payment/payment_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/shopping/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/shopping/test_cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/shopping/test_checkout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/shopping/test_inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/shopping/test_product.py" afterDir="false" />
+    <list default="true" id="d54f8576-869e-4902-b1eb-d28023556ad8" name="Changes" comment="e_commerce">
+      <change afterPath="$PROJECT_DIR$/Java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jspecify-1.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jspecify-1.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jspecify-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-6.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-6.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-6.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-6.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-6.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-6.0.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-6.0.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-6.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.3.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.3.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.3.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/customer/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/customer/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/management/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/management/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/payment/PaymentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/payment/PaymentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/payment/gateway/FlutterwaveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/payment/gateway/FlutterwaveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/payment/gateway/OpayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/payment/gateway/OpayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/shopping/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/shopping/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/shopping/CheckoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/shopping/CheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/shopping/ProductInventoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/shopping/ProductInventoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Test/shopping/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Test/shopping/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/management/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/management/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/payment/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/payment/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/payment/PaymentGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/payment/PaymentGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/payment/gateway/FlutterWave.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/payment/gateway/FlutterWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/payment/gateway/Opay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/payment/gateway/Opay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/shopping/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/shopping/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/shopping/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/shopping/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/shopping/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/shopping/ProductInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/shopping/ProductInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/customer/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/customer/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/management/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/management/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/payment/PaymentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/payment/PaymentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/payment/gateway/FlutterwaveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/payment/gateway/FlutterwaveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/payment/gateway/OpayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/payment/gateway/OpayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/shopping/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/shopping/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/shopping/CheckoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/shopping/CheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/shopping/ProductInventoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/shopping/ProductInventoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/shopping/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/shopping/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/customer/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/customer/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/management/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/management/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/payment/PaymentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/payment/PaymentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/payment/gateway/FlutterwaveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/payment/gateway/FlutterwaveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/payment/gateway/OpayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/payment/gateway/OpayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/shopping/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/shopping/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/shopping/CheckoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/shopping/CheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/shopping/ProductInventoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/shopping/ProductInventoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/Test/shopping/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Test/shopping/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/management/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/management/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/payment/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/payment/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/payment/PaymentGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/payment/PaymentGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/payment/gateway/FlutterWave.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/payment/gateway/FlutterWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/payment/gateway/Opay.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/payment/gateway/Opay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/shopping/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/shopping/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/shopping/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/shopping/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/shopping/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/shopping/ProductInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/shopping/ProductInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/customer/customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/customer/customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/management/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/management/manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/payment/flutterwave.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/payment/flutterwave.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/payment/opay.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/payment/opay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/payment/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/payment/payment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/payment/payment_gateway.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/payment/payment_gateway.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/shopping/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/shopping/cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/shopping/checkout.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/shopping/checkout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/shopping/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/shopping/inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/src/shopping/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/src/shopping/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/customer/test_customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/customer/test_customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/management/test_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/management/test_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/payment/payment_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/payment/payment_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/shopping/test_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/shopping/test_cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/shopping/test_checkout.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/shopping/test_checkout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/shopping/test_inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/shopping/test_inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test/shopping/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test/shopping/test_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/management/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/management/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/payment/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/payment/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/payment/PaymentGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/payment/PaymentGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/payment/gateway/FlutterWave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/payment/gateway/FlutterWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/payment/gateway/Opay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/payment/gateway/Opay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/ProductInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/ProductInventory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,36 +140,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for customer.test_customer.TestCustomer.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for payment_test.TestPayment.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_checkout.TestCheckout.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_customer.TestCustomer.test_view_cart_returns_cart_contents.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_add_stock.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_add_stock_throws_exception_if_goods_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_change_product_price_changes_existing_product_price.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_remove_product_removes_product_from_stock.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_remove_product_throws_exception_if_product_is_not_in_stock.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_search_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_search_product_throws_exception_when_product_does_not_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_that_available_stock_is_accurately_displayed.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_that_change_price_throws_exception_if_product_does_not_exist.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_that_if_product_does_not_exist_in_inventory_exception_is_thrown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_inventory.TestInventory.test_update_product_quantity_updates_existing_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_product.TestProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_product.TestProduct.test_products_with_same_name_have_same_hash.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for customer.test_customer.TestCustomer.executor": "Run",
+    "Python tests.Python tests for payment_test.TestPayment.executor": "Run",
+    "Python tests.Python tests for test_checkout.TestCheckout.executor": "Run",
+    "Python tests.Python tests for test_customer.TestCustomer.test_view_cart_returns_cart_contents.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_add_stock.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_add_stock_throws_exception_if_goods_exist.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_change_product_price_changes_existing_product_price.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_remove_product_removes_product_from_stock.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_remove_product_throws_exception_if_product_is_not_in_stock.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_search_product.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_search_product_throws_exception_when_product_does_not_exist.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_that_available_stock_is_accurately_displayed.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_that_change_price_throws_exception_if_product_does_not_exist.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_that_if_product_does_not_exist_in_inventory_exception_is_thrown.executor": "Run",
+    "Python tests.Python tests for test_inventory.TestInventory.test_update_product_quantity_updates_existing_product.executor": "Run",
+    "Python tests.Python tests for test_product.TestProduct.executor": "Run",
+    "Python tests.Python tests for test_product.TestProduct.test_products_with_same_name_have_same_hash.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test/management" />
@@ -107,7 +179,7 @@
       <recent name="$PROJECT_DIR$/src/management" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for management.test_manager.TestManager">
+  <component name="RunManager">
     <configuration name="Python tests for customer.test_customer.TestCustomer (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="E_Commerce_Application" />
       <option name="ENV_FILES" value="" />
@@ -188,15 +260,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests for management.test_manager.TestManager" />
-        <item itemvalue="Python tests.Python tests for customer.test_customer.TestCustomer (1)" />
-        <item itemvalue="Python tests.Python tests for customer.test_customer.TestCustomer" />
-        <item itemvalue="Python tests.Python tests for payment.payment_test.TestPayment" />
-        <item itemvalue="Python tests.Python tests for shopping.test_checkout.TestCheckout" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -214,16 +277,5 @@
       <updated>1793980667164</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
